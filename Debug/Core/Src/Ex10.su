@@ -1,0 +1,3 @@
+Ex10.c:3:5:calculateClockPosition	24	static
+Ex10.c:16:6:displayClock	40	static
+Ex10.c:37:6:EX10_Task	8	static
